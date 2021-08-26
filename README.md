@@ -4,7 +4,15 @@
 
 ### Purpose
 
-The purpose of this project is to use deep-learning neural network model in Python to analyze the loan prediction risk.
+The purpose of this project is to use deep-learning neural network model in Python to analyze the loan prediction risk. The following methods were used in this project:
+- Data Preprocessing
+- compile, train and evaluate the model
+- optimize the model
+
+### Technology
+
+Python, Jupyter notebook, Pandas, Tensorflow, sklearn
+
 
 ## Results: 
 
